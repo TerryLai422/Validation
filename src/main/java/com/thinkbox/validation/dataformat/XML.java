@@ -1,4 +1,4 @@
-package com.thinkbox.vallidation.dataformat;
+package com.thinkbox.validation.dataformat;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
