@@ -1,4 +1,4 @@
-package com.thinkbox.vallidation.identity;
+package com.thinkbox.validation.identity;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

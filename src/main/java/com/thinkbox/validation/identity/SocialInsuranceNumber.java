@@ -1,4 +1,4 @@
-package com.thinkbox.vallidation.identity;
+package com.thinkbox.validation.identity;
 
 public class SocialInsuranceNumber {
 	public boolean isValid(String sin) throws Exception {
